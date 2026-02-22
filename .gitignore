@@ -81,3 +81,6 @@ Thumbs.db
 
 # Qiskit cache
 .qiskit/
+# Large datasets (do not commit)
+Week 5 Files-20260216/creditcard.csv
+Week 5 Files-20260216/creditcard.csv.zip
